@@ -18,3 +18,4 @@ a=int(input("Enter a number:")) if a%2==0: print("EVEN") else: print("ODD")
 <img width="1002" height="287" alt="exp1" src="https://github.com/user-attachments/assets/b2508800-ac6a-46e9-b644-eee62b3dee54" />
 
 ## Result
+enter: 8 EVEN
